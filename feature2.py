@@ -1,2 +1,1 @@
-print 'b'
-add
+print 'c'
